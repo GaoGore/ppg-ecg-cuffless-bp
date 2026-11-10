@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# the dataset is not redistributed (see README)
+data/
+
+# everything derived from the data
+cache/
+catboost_info/
+results/
+predictions/
+analysis/pyppg/out/
+*.npy
+*.npz
+*.pkl
+*.csv
+*.log

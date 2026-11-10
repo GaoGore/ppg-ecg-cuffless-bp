@@ -2,7 +2,7 @@
 
 用 16 路多波长 PPG（红外、红、绿、蓝光，各 4 个位置）、单导联 ECG、三轴加速度和人口学信息，估计每轮 1 分钟记录的收缩压（SBP）和舒张压（DBP）。
 
-*English summary: an experiment in snapshot cuffless blood-pressure estimation from 16-channel multi-wavelength PPG, single-lead ECG, accelerometry and demographics. It covers beat-level signal processing and physiological features, subject-level CatBoost and CNN models, subject-grouped cross-validation reweighted to an AAMI/ISO 81060-2-style BP distribution, a label-shift-aware posterior-median correction, and a comparison with pyPPG biomarkers. The key findings are listed below in Chinese.*
+*An experiment in snapshot cuffless blood-pressure estimation from 16-channel multi-wavelength PPG, single-lead ECG, accelerometry and demographics. It covers beat-level signal processing and physiological features, subject-level CatBoost and CNN models, subject-grouped cross-validation reweighted to an AAMI/ISO 81060-2-style BP distribution, a label-shift-aware posterior-median correction, and a comparison with pyPPG biomarkers. The key findings are listed below in Chinese.*
 
 ## 主要结论
 
